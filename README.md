@@ -4,7 +4,7 @@
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.7** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-04-dark-console)**
 https://motiongit.com/@adunext/template-04-dark-console
@@ -15,7 +15,7 @@ Download available; current terms are listed with the package.
 
 [![Animated preview](assets/preview.gif)](https://motiontemplates.github.io/553346/)
 
-[Full demo](https://motiongit.com/@adunext/template-04-dark-console) · [Play video](https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4)
+[Full demo](https://motiongit.com/@adunext/template-04-dark-console) · [Play video](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
 ![Composition and motion details](assets/compositions.jpg)
 

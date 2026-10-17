@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "template-04-dark-console",
   "website": "https://motiongit.com/@adunext/template-04-dark-console",
-  "version": "2.5.7",
+  "version": "2.6.0",
   "technical": {
     "en": [
       "Declared runtime profile: adu-authored-unit/1.",
@@ -20,7 +20,7 @@
       "已声明时长随本期配音适配，最终节奏由包内制作计划确定，样片时长不是固定成片时长。"
     ]
   },
-  "checkedAt": "2026-10-16",
+  "checkedAt": "2026-10-17",
   "availability": "download-available",
   "title": {
     "en": "Tech Console · Narrated Explainer",
@@ -44,7 +44,7 @@
   "fps": 60,
   "durationSeconds": 130,
   "demo": {
-    "en": "https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4",
+    "en": "https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4",
     "zh": "https://motiongit.com/@adunext/template-04-dark-console?lang=zh",
     "poster": "https://motiongit.com/media/covers/611/2.5.7-zh-8e20f0acb55c.jpg"
   },
