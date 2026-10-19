@@ -4,7 +4,7 @@
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.5** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-04-dark-console)**
 https://motiongit.com/@adunext/template-04-dark-console
@@ -30,7 +30,7 @@ Demo duration: **130s**. The documented output is 1920 × 1080, 60 fps. The publ
 
 ## Inputs and materials
 
-- **Required:** Your current talking-head video with its original audio for the native presenter workflow.
+- **Optional:** Your current talking-head video with its original audio for the native presenter workflow.
 - **Optional:** A transcript or SRT matching the current narration/video.
 - **Optional:** Your topic, script and facts to preserve.
 - **Optional:** Relevant screen recordings or evidence clips, when selected scenes require them.

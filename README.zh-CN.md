@@ -4,7 +4,7 @@
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.5** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-04-dark-console)**
 https://motiongit.com/@adunext/template-04-dark-console
@@ -30,7 +30,7 @@ https://motiongit.com/@adunext/template-04-dark-console
 
 ## 输入素材与内容
 
-- **必需:** 原生口播流程使用的本期人物视频与原声。
+- **可选:** 原生口播流程使用的本期人物视频与原声。
 - **可选:** 与本期口播匹配的文稿或 SRT 字幕。
 - **可选:** 本期主题、文稿与需要准确保留的信息。
 - **可选:** 所选案例或证据镜头需要时，提供对应录屏或视频。

@@ -3,7 +3,7 @@
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
 Template & full download: https://motiongit.com/@adunext/template-04-dark-console
-Version: 2.7.5
+Version: 2.7.6
 Download available; current terms are listed with the package.
 
 ## Technical reference
@@ -18,7 +18,7 @@ Download available; current terms are listed with the package.
 
 ## Inputs
 
-- **Required:** Your current talking-head video with its original audio for the native presenter workflow.
+- **Optional:** Your current talking-head video with its original audio for the native presenter workflow.
 - **Optional:** A transcript or SRT matching the current narration/video.
 - **Optional:** Your topic, script and facts to preserve.
 - **Optional:** Relevant screen recordings or evidence clips, when selected scenes require them.
