@@ -3,7 +3,7 @@
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
 Template & full download: https://motiongit.com/@adunext/template-04-dark-console
-Version: 2.7.0
+Version: 2.7.1
 Download available; current terms are listed with the package.
 
 ## Technical reference
@@ -38,6 +38,6 @@ Download available; current terms are listed with the package.
 - The documented output is 1920 × 1080, 60 fps. The public demo is 130 seconds.
 - Use the actual package parameter bounds; extra materials do not automatically create extra scenes.
 - Product or brand advertising
-- Presenter-free graphic films
+- Do not omit presenter media from native groups that require it; presenter-free graphics use this package's declared component workflow.
 - Music-only films
 - Long-form lecture courses

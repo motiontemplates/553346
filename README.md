@@ -4,7 +4,7 @@
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.0** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.1** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-04-dark-console)**
 https://motiongit.com/@adunext/template-04-dark-console
@@ -26,7 +26,7 @@ Download available; current terms are listed with the package.
 - The template uses authored animation units selected for the meaning and quantity of the current content.
 - The declared duration policy follows the current voiceover; the package plan determines final timing rather than the demo length.
 
-Demo duration: **130s**. The documented output is 1920 × 1080, 60 fps. The public demo is 130 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Product or brand advertising Presenter-free graphic films Music-only films Long-form lecture courses
+Demo duration: **130s**. The documented output is 1920 × 1080, 60 fps. The public demo is 130 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Product or brand advertising Do not omit presenter media from native groups that require it; presenter-free graphics use this package's declared component workflow. Music-only films Long-form lecture courses
 
 ## Inputs and materials
 
