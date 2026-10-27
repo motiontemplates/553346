@@ -1,7 +1,7 @@
 # Tech Console · Narrated Explainer · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/template-04-dark-console
-Version: 2.7.19-alpha.4
+Version: 2.7.19-alpha.6
 Download available; current terms are listed with the package.
 
 Declared runtime profile: adu-authored-unit/1.
